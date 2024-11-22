@@ -1,0 +1,31 @@
+.container.food
+{
+    display: flex;
+
+
+}
+.food ul{
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: gold;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 10px 200px 10px 200px; 
+}
+.food ul a{
+    text-decoration: none;
+    color: black;
+}
+  p{
+    font-weight: 700;
+    font-size: larger;
+    color: green; 
+  }
+
+  body{
+    background-image: url("../images/chinees.jpeg");
+  }
+
+   
